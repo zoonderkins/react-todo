@@ -1,7 +1,10 @@
 # Demo
 Link: [Demo](https://build-oppmlqedmv.now.sh/)
 
-#Short intro
+# Screenshot
+![Demo](https://raw.githubusercontent.com/ookangzheng/react-todo/master/mockuper.png)
+
+# Short intro
 This is a ReactJs 16.4 practice project with CSS3
 
 In the project directory, you can run:
